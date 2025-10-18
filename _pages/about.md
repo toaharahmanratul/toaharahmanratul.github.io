@@ -53,6 +53,6 @@ Nov 2023: Joined [ShellBeeHaken](https://shellbeehaken.com/) as Trainee Software
 
 ------
 
-Sep 2023: Completed BSc in CSE from RUET
+Sep 2023: Graduated from [RUET](https://www.ruet.ac.bd/) in Computer Science & Engineering
 
 ------
