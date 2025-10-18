@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile_dp.jpeg"
   name             : "Toaha Rahman Ratul"
-  pronouns         : "he/him"
+  pronouns         : # "he/him"
   bio              : "PhD Student in Computer Science, Northern Illinois University, United States"
   location         : "DeKalb, Illinois, USA"
   employer         : "Northern Illinois University"
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-3691-6604"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -52,14 +52,14 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : "toaharahman.ratul"
+  bluesky          : # ""
+  facebook         : # "toaharahman.ratul"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : # "toaharahmanratul"
   lastfm           : # Username
   linkedin         : "trratul"
   mastodon         : # URL
