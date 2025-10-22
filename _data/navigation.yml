@@ -20,8 +20,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Hobbies"
-    url: /hobbies/
+  - title: "Trivia"
+    url: /trivia/
     
   - title: "CV"
     url: /cv/
